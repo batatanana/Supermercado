@@ -10,6 +10,7 @@ main:
 caixa:
 	#controlar esteira
 	#ler o codigo de barras dos produtos
+	#calcular preco de cada produto
 	#calcular o total a pagar
 
 
