@@ -1,3 +1,5 @@
+import ponto.py
+#conversando com a gerente
 main:
 	#print este e um supermercado
 
