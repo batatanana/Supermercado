@@ -6,6 +6,12 @@ import ponto.py
 #só tem um detalhe, tem pedágio
 #mas né kkkkk alguém precisa me sustentar
 
+#um rapaz simpático tocou a campainha aqui
+#sepa é o seu gerente kkkkkk
+#só q ele tava meio cabisbaixo
+#atropelou a FIlisbina, a vaca número 37
+#MAs tudo bem, pelo menos a gente comeu bastante carne no almoço kkkkk
+
 main:
 	#print este e um supermercado
 
