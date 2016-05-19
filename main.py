@@ -12,6 +12,16 @@ import ponto.py
 #atropelou a FIlisbina, a vaca número 37
 #MAs tudo bem, pelo menos a gente comeu bastante carne no almoço kkkkk
 
+#tava bom o churrasquinho da Filisbina kkk
+#pena q o carro dele está levemente danifcado
+#mas valeu pela zuera
+#deixei ele levar a Zezefrina
+#pra compensar pelo carro
+#vai ter carne pra um tempão kkk
+#só pede desculpas pra ele por mim
+#esqueci que o guincho não era de graça kkk
+#mas quem sabe ele consegue pagar com a Zezefrina :P
+
 main:
 	#print este e um supermercado
 
